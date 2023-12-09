@@ -1,0 +1,6 @@
+const arreyNumber = [1, 2, 3, 4, 5];
+console.log(arreyNumber);
+console.log(` O valor do elemento 0 da minha lista é ${arreyNumber[0]} `);
+
+
+
